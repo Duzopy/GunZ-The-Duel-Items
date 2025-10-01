@@ -1,6 +1,6 @@
 # GunZ-The-Duel-Items
 GunZ The Duel Items from old private servers - Thanks too all the private servers who ever work on the items <br>
-Big archive (from -> 2005 -> 2025) will be listing all the private servers name here under, Every item is converted too '.elu' file <br>
+Big archive (from -> 2005 -> 2025) will be listing all the private servers name here under <br>
 Use Maiet Character Viewer to check your items: [Maiet Character Viewer](https://github.com/WhyWolfie/GunZ-The-Duel/blob/master/Tools/elu/Maiet%20Character%20Viewer(english).zip)
 
 - Crazy Toffi GunZ
